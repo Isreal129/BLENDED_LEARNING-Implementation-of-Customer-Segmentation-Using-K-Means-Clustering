@@ -1,4 +1,3 @@
-# BLENDED LEARNING
 # Implementation of Customer Segmentation Using K-Means Clustering
 <H3>NAME: ISREAL MOSES B</H3>
 <H3>REGISTER NO.: 212221040060</H3>
